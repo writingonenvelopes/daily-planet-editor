@@ -1,3 +1,14 @@
+/*
+This code contains only syntax and code style problems. The logic of the code works,
+so DO NOT change the functionality of anything in here. For example, the `while` loop
+at the end has syntax problems, not logic problems. It shouldn't be an infinite loop,
+but the way to fix that is not to change the structure of the while loop. 
+
+In short, you shouldn't need to add your own statements anywhere,
+just fix the existing ones.
+*/
+
+
 // Written by Kent, Clark
 
 var Enemies=["Lex","Batman","Darkseid","Braniac","General Zod","Doomsday"];
